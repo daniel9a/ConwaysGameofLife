@@ -1,0 +1,48 @@
+#include "coordinate.h"
+
+#include <math.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
+Coordinate ConstructCoordinate(int x, int y) {
+
+	Coordinate output;
+
+	output.x = x;
+	output.y = y;
+	
+	return output; 
+}
+
+
+
+
+int IsNeighbor(Coordinate C1, Coordinate C2) {
+
+	int distance;
+	int xdistance, ydistance;
+	
+	xdistance = C1.x - C2.x;
+	ydistance = C1.y - C2.y;	
+        distance = sqrt(pow((C1.x - C2.x), 2) + pow((C1.y - C2.y), 2));
+
+
+	if(distance <= sqrt(2) && distance != 0){
+	return 1;
+	}
+	else{
+	return 0;
+	}
+}
+
+
+
+void SwapCoordinates(Coordinate* C) {
+
+	int temp;
+	temp = C->x;
+	C->x = C->y;
+	C->y = temp;	
+}

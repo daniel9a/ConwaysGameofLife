@@ -1,0 +1,1059 @@
+c_indentation_checker.py: DEBUG: <module>(): 200:	File: binary_matrix.c
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 1
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: /*
+c_indentation_checker.py: DEBUG: stripComments(): 47:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: True
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 2
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: True
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * binary_matrix.c
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: True
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 3
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: True
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Daniel Andrade 913211982
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: True
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 4
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: True
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * An implementation of a Binary Matrix
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: True
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 5
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: True
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  */
+c_indentation_checker.py: DEBUG: stripComments(): 35:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 6
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 7
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 8
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: #include "binary_matrix.h"
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 9
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 10
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: #include <stdio.h>
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 11
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: #include <stdlib.h>
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 12
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 13
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: /*
+c_indentation_checker.py: DEBUG: stripComments(): 47:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: True
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 14
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: True
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Input:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: True
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 15
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: True
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      int num_rows, the number of rows of matrix
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: True
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 16
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: True
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      int num_cols, the number of cols of matrix
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: True
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 17
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: True
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Output:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: True
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 18
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: True
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      Return a BinaryMatrix*
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: True
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 19
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: True
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Summary:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: True
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 20
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: True
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      Creates a Matrix
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: True
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 21
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: True
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  */
+c_indentation_checker.py: DEBUG: stripComments(): 35:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 22
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 23
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: BinaryMatrix *ConstructBinaryMatrix(int num_rows, int num_cols) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 24
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 97:	At line 25
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 98:	PreStrip: Commented: False
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	BinaryMatrix *result = (BinaryMatrix *) malloc(sizeof(BinaryMatrix));
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 100:	PostStrip: Commented: False
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 102:	Looking for first indentation on line 25: "	BinaryMatrix *result = (BinaryMatrix *) malloc(sizeof(BinaryMatrix));"
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 107:	First indentation is a tab.
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 112:	First indentation length: 1
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 123:	Indentation found on line 25
+c_indentation_checker.py: DEBUG: getIndentationStandard(): 127:	Proceeding with indentation standard of 1 Tab
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally /*
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: /*
+c_indentation_checker.py: DEBUG: stripComments(): 47:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * binary_matrix.c
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * binary_matrix.c
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Daniel Andrade 913211982
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Daniel Andrade 913211982
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * An implementation of a Binary Matrix
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * An implementation of a Binary Matrix
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  */
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  */
+c_indentation_checker.py: DEBUG: stripComments(): 35:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally #include "binary_matrix.h"
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: #include "binary_matrix.h"
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to #include "binary_matrix.h"
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: #include "binary_matrix.h"
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally #include <stdio.h>
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: #include <stdio.h>
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to #include <stdio.h>
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: #include <stdio.h>
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally #include <stdlib.h>
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: #include <stdlib.h>
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to #include <stdlib.h>
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: #include <stdlib.h>
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally /*
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: /*
+c_indentation_checker.py: DEBUG: stripComments(): 47:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Input:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Input:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      int num_rows, the number of rows of matrix
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      int num_rows, the number of rows of matrix
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      int num_cols, the number of cols of matrix
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      int num_cols, the number of cols of matrix
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Output:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Output:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      Return a BinaryMatrix*
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      Return a BinaryMatrix*
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Summary:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Summary:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      Creates a Matrix
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      Creates a Matrix
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  */
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  */
+c_indentation_checker.py: DEBUG: stripComments(): 35:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally BinaryMatrix *ConstructBinaryMatrix(int num_rows, int num_cols) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: BinaryMatrix *ConstructBinaryMatrix(int num_rows, int num_cols) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to BinaryMatrix *ConstructBinaryMatrix(int num_rows, int num_cols) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: BinaryMatrix *ConstructBinaryMatrix(int num_rows, int num_cols) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	BinaryMatrix *result = (BinaryMatrix *) malloc(sizeof(BinaryMatrix));
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	BinaryMatrix *result = (BinaryMatrix *) malloc(sizeof(BinaryMatrix));
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	BinaryMatrix *result = (BinaryMatrix *) malloc(sizeof(BinaryMatrix));
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	BinaryMatrix *result = (BinaryMatrix *) malloc(sizeof(BinaryMatrix));
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	result->num_rows = num_rows;
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	result->num_rows = num_rows;
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	result->num_rows = num_rows;
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	result->num_rows = num_rows;
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	result->num_cols = num_cols;
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	result->num_cols = num_cols;
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	result->num_cols = num_cols;
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	result->num_cols = num_cols;
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	result->data = (int **) malloc(sizeof(int *) * num_rows);
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	result->data = (int **) malloc(sizeof(int *) * num_rows);
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	result->data = (int **) malloc(sizeof(int *) * num_rows);
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	result->data = (int **) malloc(sizeof(int *) * num_rows);
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	int i, j;
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	int i, j;
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	int i, j;
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	int i, j;
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	for (i = 0; i < num_rows; i++) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	for (i = 0; i < num_rows; i++) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	for (i = 0; i < num_rows; i++) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	for (i = 0; i < num_rows; i++) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		result->data[i] = (int *) malloc(num_rows * sizeof(int));
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		result->data[i] = (int *) malloc(num_rows * sizeof(int));
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		result->data[i] = (int *) malloc(num_rows * sizeof(int));
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		result->data[i] = (int *) malloc(num_rows * sizeof(int));
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		for (j = 0; j < num_cols; j++) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		for (j = 0; j < num_cols; j++) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		for (j = 0; j < num_cols; j++) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		for (j = 0; j < num_cols; j++) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 			result->data[i][j] = 0;
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 			result->data[i][j] = 0;
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 			result->data[i][j] = 0;
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 			result->data[i][j] = 0;
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 3
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	if (!(num_rows > 0) && !(num_cols > 0)) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	if (!(num_rows > 0) && !(num_cols > 0)) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	if (!(num_rows > 0) && !(num_cols > 0)) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	if (!(num_rows > 0) && !(num_cols > 0)) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		printf("Error in CreateMatrix: number of rows and columns must be positive");
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		printf("Error in CreateMatrix: number of rows and columns must be positive");
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		printf("Error in CreateMatrix: number of rows and columns must be positive");
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		printf("Error in CreateMatrix: number of rows and columns must be positive");
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		exit(EXIT_FAILURE);
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		exit(EXIT_FAILURE);
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		exit(EXIT_FAILURE);
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		exit(EXIT_FAILURE);
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	return result;
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	return result;
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	return result;
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	return result;
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally }
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: }
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to }
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: }
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally /*
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: /*
+c_indentation_checker.py: DEBUG: stripComments(): 47:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Input:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Input:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      num_rows
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      num_rows
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Output:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Output:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      Free everything
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      Free everything
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Summary:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Summary:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      Deallocates the memory used for *M
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      Deallocates the memory used for *M
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  */
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  */
+c_indentation_checker.py: DEBUG: stripComments(): 35:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally void DeleteBinaryMatrix(BinaryMatrix * M)
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: void DeleteBinaryMatrix(BinaryMatrix * M)
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to void DeleteBinaryMatrix(BinaryMatrix * M)
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: void DeleteBinaryMatrix(BinaryMatrix * M)
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	for (int i = 0; i < M->num_rows; i++) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	for (int i = 0; i < M->num_rows; i++) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	for (int i = 0; i < M->num_rows; i++) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	for (int i = 0; i < M->num_rows; i++) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		free(M->data[i]);
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		free(M->data[i]);
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		free(M->data[i]);
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		free(M->data[i]);
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	free(M->data);	
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	free(M->data);
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	free(M->data);
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	free(M->data);
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	free(M);
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	free(M);
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	free(M);
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	free(M);
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally }
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: }
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to }
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: }
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally /*
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: /*
+c_indentation_checker.py: DEBUG: stripComments(): 47:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Input:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Input:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      int row
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      int row
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      int col
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      int col
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      int content
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      int content
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Output:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Output:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      If row and col are not valid indicies for *M return error message and exit program
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      If row and col are not valid indicies for *M return error message and exit program
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      If content is not a 0 or 1 return error message and exit program
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      If content is not a 0 or 1 return error message and exit program
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Summary:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Summary:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      Updates (row, col) entry with content
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      Updates (row, col) entry with content
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  */
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  */
+c_indentation_checker.py: DEBUG: stripComments(): 35:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally void UpdateEntry(BinaryMatrix * M, int row, int col, int content)
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: void UpdateEntry(BinaryMatrix * M, int row, int col, int content)
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to void UpdateEntry(BinaryMatrix * M, int row, int col, int content)
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: void UpdateEntry(BinaryMatrix * M, int row, int col, int content)
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	if (!(IsMatrixIndex(M, row, col))) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	if (!(IsMatrixIndex(M, row, col))) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	if (!(IsMatrixIndex(M, row, col))) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	if (!(IsMatrixIndex(M, row, col))) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		printf("Error in UpdateEntry: index out of bounds\n");
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		printf("Error in UpdateEntry: index out of bounds\n");
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		printf("Error in UpdateEntry: index out of bounds\n");
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		printf("Error in UpdateEntry: index out of bounds\n");
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		exit(EXIT_FAILURE);
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		exit(EXIT_FAILURE);
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		exit(EXIT_FAILURE);
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		exit(EXIT_FAILURE);
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	if (!(content == 0 || content == 1)) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	if (!(content == 0 || content == 1)) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	if (!(content == 0 || content == 1)) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	if (!(content == 0 || content == 1)) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		printf("Error in UpdateEntry: content must be 0 or 1\n");
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		printf("Error in UpdateEntry: content must be 0 or 1\n");
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		printf("Error in UpdateEntry: content must be 0 or 1\n");
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		printf("Error in UpdateEntry: content must be 0 or 1\n");
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		exit(EXIT_FAILURE);
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		exit(EXIT_FAILURE);
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		exit(EXIT_FAILURE);
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		exit(EXIT_FAILURE);
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	M->data[row][col] = content;
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	M->data[row][col] = content;
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	M->data[row][col] = content;
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	M->data[row][col] = content;
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally }
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: }
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to }
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: }
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally /*
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: /*
+c_indentation_checker.py: DEBUG: stripComments(): 47:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Input:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Input:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      BinaryMatrix* M
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      BinaryMatrix* M
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      int row
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      int row
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      int col
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      int col
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      int content
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      int content
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Output:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Output:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      Returns true if row and col are valid indicies for *M and false otherwise
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      Returns true if row and col are valid indicies for *M and false otherwise
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      Checks that *M is not NULL and if it is print error message
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      Checks that *M is not NULL and if it is print error message
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Summary:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Summary:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      Reads if else statements
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      Reads if else statements
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  */
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  */
+c_indentation_checker.py: DEBUG: stripComments(): 35:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally int IsMatrixIndex(BinaryMatrix * M, int row, int col)
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: int IsMatrixIndex(BinaryMatrix * M, int row, int col)
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to int IsMatrixIndex(BinaryMatrix * M, int row, int col)
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: int IsMatrixIndex(BinaryMatrix * M, int row, int col)
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	if (M == NULL) {		
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	if (M == NULL) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	if (M == NULL) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	if (M == NULL) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		printf("IsMatrixIndex Error: NULL parameter passed\n");
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		printf("IsMatrixIndex Error: NULL parameter passed\n");
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		printf("IsMatrixIndex Error: NULL parameter passed\n");
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		printf("IsMatrixIndex Error: NULL parameter passed\n");
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		exit(EXIT_FAILURE);
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		exit(EXIT_FAILURE);
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		exit(EXIT_FAILURE);
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		exit(EXIT_FAILURE);
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	if (!(col <= M->num_cols - 1)) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	if (!(col <= M->num_cols - 1)) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	if (!(col <= M->num_cols - 1)) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	if (!(col <= M->num_cols - 1)) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		return 0;
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		return 0;
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		return 0;
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		return 0;
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	if (!(row <= M->num_rows - 1)) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	if (!(row <= M->num_rows - 1)) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	if (!(row <= M->num_rows - 1)) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	if (!(row <= M->num_rows - 1)) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		return 0;
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		return 0;
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		return 0;
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		return 0;
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	if (col < 0) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	if (col < 0) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	if (col < 0) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	if (col < 0) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		return 0;
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		return 0;
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		return 0;
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		return 0;
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	if (row < 0) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	if (row < 0) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	if (row < 0) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	if (row < 0) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		return 0;
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		return 0;
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		return 0;
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		return 0;
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	return 1;
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	return 1;
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	return 1;
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	return 1;
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally }
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: }
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to }
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: }
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally /*
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: /*
+c_indentation_checker.py: DEBUG: stripComments(): 47:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Input:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Input:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      BinaryMatrix* M
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      BinaryMatrix* M
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Output:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Output:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      Prints entry
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      Prints entry
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  * Summary:
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  * Summary:
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  *      Prints entries of *M
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  *      Prints entries of *M
+c_indentation_checker.py: DEBUG: stripComments(): 39:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally  */
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped:  */
+c_indentation_checker.py: DEBUG: stripComments(): 35:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally void PrintMatrix(BinaryMatrix * M)
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: void PrintMatrix(BinaryMatrix * M)
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to void PrintMatrix(BinaryMatrix * M)
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: void PrintMatrix(BinaryMatrix * M)
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	int i, j;
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	int i, j;
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	int i, j;
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	int i, j;
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	for (i = 0; i < M->num_rows; i++) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	for (i = 0; i < M->num_rows; i++) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	for (i = 0; i < M->num_rows; i++) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	for (i = 0; i < M->num_rows; i++) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		for (j = 0; j < M->num_cols; j++) {
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		for (j = 0; j < M->num_cols; j++) {
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		for (j = 0; j < M->num_cols; j++) {
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		for (j = 0; j < M->num_cols; j++) {
+c_indentation_checker.py: DEBUG: updateLevel(): 143:	opening {
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 			printf("%d", (M->data[i][j]));
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 			printf("%d", (M->data[i][j]));
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 			printf("%d", (M->data[i][j]));
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 			printf("%d", (M->data[i][j]));
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 3
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 		printf("\n");
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 		printf("\n");
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 		printf("\n");
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 		printf("\n");
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 2
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally 	}
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: 	}
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: 	}
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 1
+c_indentation_checker.py: DEBUG: checkLine(): 159:	line originally }
+
+c_indentation_checker.py: DEBUG: stripComments(): 32:	C++ stripped: }
+c_indentation_checker.py: DEBUG: stripComments(): 51:	
+c_indentation_checker.py: DEBUG: checkLine(): 161:	line stripped to }
+c_indentation_checker.py: DEBUG: updateLevel(): 140:	checking line: }
+c_indentation_checker.py: DEBUG: updateLevel(): 151:	closing }
+c_indentation_checker.py: DEBUG: checkLine(): 171:	Indentation Level: 0
